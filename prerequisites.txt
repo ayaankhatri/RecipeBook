@@ -1,0 +1,30 @@
+Recipe Book
+
+Prerequisites
+- Node.js (LTS)
+- npm
+- VS Code
+- MongoDB Atlas account (or local MongoDB)
+
+## How to Run
+
+### Backend
+cd backend  
+npm install  
+The .env fle is also in the repo, but just in case it's missing, crate a .env with:
+MONGO_URI=mongodb+srv://ayaankhatri:Ayaan2006@acm-recipebook.40kt64p.mongodb.net/?appName=acm-recipebook
+in the backend
+Then run in backend:
+>node index.js  
+
+Backend runs on http://localhost:5000
+
+### Frontend
+Open a new terminal:  
+>cd frontend  
+>npm install  
+>npm run dev  
+
+Open http://localhost:5173 in your browser.
+
+Both backend and frontend must be running at the same time.
