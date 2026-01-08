@@ -1,0 +1,7 @@
+So I managed to filter by diet, make light and dark mode, added an ingredient page.
+Rest all I tried to figure out but time constraint. Really enjoyed working on this tho and I think I will coninue, using mongoDB was a fun experience.
+
+Also just to add, mongoDB does create some issues, it goes inactive randomly and that's an issue. If while reviewing that error happens, let me know I can update it to work. Also there is an issue where even if I have allowed access to everyone(All IP's) it stil requires me to add my current IP to run.
+These may be a mac issue, but that's what I faced while going through the code.
+
+Anyways all the best in reviewing everyone's work, hope you liked mine.
