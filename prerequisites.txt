@@ -17,7 +17,7 @@ in the backend
 Then run in backend:
 >node index.js  
 
-Backend runs on http://localhost:5000
+Backend runs on http://localhost:5050
 
 ### Frontend
 Open a new terminal:  
