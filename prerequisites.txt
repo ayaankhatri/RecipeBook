@@ -11,7 +11,7 @@ Prerequisites
 ### Backend
 cd backend  
 npm install  
-The .env fle is also in the repo, but just in case it's missing, crate a .env with:
+The .env file is also in the repo, but just in case it's missing, crate a .env with:
 MONGO_URI=mongodb+srv://ayaankhatri:Ayaan2006@acm-recipebook.40kt64p.mongodb.net/?appName=acm-recipebook
 in the backend
 Then run in backend:
